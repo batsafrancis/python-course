@@ -1,8 +1,8 @@
 ---
-name: The Name You Go By
-fullname: Your Full Name
-country: Your Home
-gh: "Your GitHib Handle (no @)"
+name: FRANCIS BATSA
+fullname: batsafrancis
+country: Ghana
+gh: "fbatsa@aims.edu.gh"
 ---
 
-Short professional blurb.
+Short professional blurb.stdent at aims ghana
